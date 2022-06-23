@@ -1,2 +1,2 @@
 # educateMe
-Educate me is a Unity Game developed for Smartphones, PC and Tablets.
+Educate me is a Unity Multi Game developed for Smartphones, PC and Tablets.
