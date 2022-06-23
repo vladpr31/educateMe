@@ -1,0 +1,636 @@
+fileFormatVersion: 2
+guid: 19bb3ecf5aee57a42a903571815a24c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6391317388543899682
+    second: Robin flying_0
+  - first:
+      213: 3856994535144761021
+    second: Robin flying_1
+  - first:
+      213: -993993315864382909
+    second: Robin flying_2
+  - first:
+      213: 9132558843819207123
+    second: Robin flying_3
+  - first:
+      213: -3636550922623347069
+    second: Robin flying_4
+  - first:
+      213: 2360952612214747838
+    second: Robin flying_8
+  - first:
+      213: 3756116284653009635
+    second: Robin flying_9
+  - first:
+      213: -4836057496245285413
+    second: Robin flying_11
+  - first:
+      213: -1018227854402676769
+    second: Robin flying_13
+  - first:
+      213: -7525150447747592268
+    second: Robin flying_15
+  - first:
+      213: 5153310761155159697
+    second: Robin flying_17
+  - first:
+      213: -4363326926510366878
+    second: Robin flying_19
+  - first:
+      213: 5335810176808014482
+    second: Robin flying_21
+  - first:
+      213: -8918522997642741263
+    second: Robin flying_22
+  - first:
+      213: 8444316574927114609
+    second: Robin flying_24
+  - first:
+      213: 7551833940442292400
+    second: Robin flying_30
+  - first:
+      213: -4034086440149486385
+    second: Robin flying_32
+  - first:
+      213: -5373947606302776744
+    second: Robin flying_34
+  - first:
+      213: -8226845053298323475
+    second: Robin flying_35
+  - first:
+      213: -5637627734779547611
+    second: Robin flying_36
+  - first:
+      213: 2242271272211617512
+    second: Robin flying_37
+  - first:
+      213: 1932011542780649405
+    second: Robin flying_38
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Robin flying_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1284
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228bfee5d4582b850800000000000000
+      internalID: 6391317388543899682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robin flying_1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1284
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db62def281cc68530800000000000000
+      internalID: 3856994535144761021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robin flying_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1274
+        width: 184
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3427aca7850a432f0800000000000000
+      internalID: -993993315864382909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robin flying_3
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1278
+        width: 184
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d92230d1ed5dbe70800000000000000
+      internalID: 9132558843819207123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robin flying_4
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1305
+        width: 184
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3869a610430688dc0800000000000000
+      internalID: -3636550922623347069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robin flying_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 975
+        width: 184
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2379654e9c3c020800000000000000
+      internalID: 2360952612214747838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robin flying_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 975
+        width: 184
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea7dc13cd7602430800000000000000
+      internalID: 3756116284653009635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robin flying_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 975
+        width: 184
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd4fe6645fd2ecb0800000000000000
+      internalID: -4836057496245285413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robin flying_13
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 975
+        width: 184
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd79be549278ed1f0800000000000000
+      internalID: -1018227854402676769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robin flying_15
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 975
+        width: 184
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf02a8a98b419790800000000000000
+      internalID: -7525150447747592268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robin flying_17
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 661
+        width: 187
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196e9d775dc348740800000000000000
+      internalID: 5153310761155159697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robin flying_19
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 661
+        width: 192
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fd37a37495273c0800000000000000
+      internalID: -4363326926510366878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robin flying_21
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 661
+        width: 184
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2925e81e51b9c0a40800000000000000
+      internalID: 5335810176808014482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robin flying_22
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 661
+        width: 192
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f93a54069a0b3480800000000000000
+      internalID: -8918522997642741263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robin flying_24
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 661
+        width: 192
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171597b5f2d303570800000000000000
+      internalID: 8444316574927114609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robin flying_30
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 347
+        width: 192
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b02dce15f08dc860800000000000000
+      internalID: 7551833940442292400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robin flying_32
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 347
+        width: 192
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc47ba591cb0408c0800000000000000
+      internalID: -4034086440149486385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robin flying_34
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 347
+        width: 192
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85223ccdf17eb65b0800000000000000
+      internalID: -5373947606302776744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robin flying_35
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 347
+        width: 192
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def49fff20064dd80800000000000000
+      internalID: -8226845053298323475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robin flying_36
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 340
+        width: 192
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5203394d17f13c1b0800000000000000
+      internalID: -5637627734779547611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robin flying_37
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 18
+        width: 192
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e69c3e87d52e1f10800000000000000
+      internalID: 2242271272211617512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robin flying_38
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 32
+        width: 192
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf156d0342efca10800000000000000
+      internalID: 1932011542780649405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

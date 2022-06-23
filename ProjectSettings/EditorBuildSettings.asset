@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 6c8b6a459f603b24994b46f58aeb117d
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/mainScene.unity
+    guid: 68d71d5170c1e5d43afc59dc1368f170
+  - enabled: 1
+    path: Assets/Scenes/puzzleScene.unity
+    guid: 84b7d7a9779f44844a4b446029d4a84f
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/safetyQuiz.unity
+    guid: 4cf3bc27369809e41985323c7cdd8e09
+  - enabled: 1
+    path: Assets/Scenes/quizScene.unity
+    guid: f604554d0d850bd42b95ae6fd949edc5
+  - enabled: 1
+    path: Assets/Scenes/gameScene.unity
+    guid: d462694b972e8224ba3ea63b07940b49
+  - enabled: 1
+    path: Assets/Scenes/learnCount.unity
+    guid: 2c2744de7bd4cdf4b9cce8a3f82923f6
+  - enabled: 1
+    path: Assets/Scenes/wordsGame.unity
+    guid: 5f3010a3193a2024195d1194c43f08f5
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/roadCaution.unity
+    guid: 193a6b9f32bc49142af7d501776ca71f
+  - enabled: 1
+    path: Assets/Scenes/monopolyGame.unity
+    guid: 4446adaa2f62c034dac3ce56e85a6017
+  - enabled: 1
+    path: Assets/Scenes/monopolygame2.unity
+    guid: 3d81487291201384c8beead2e77f2363
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/cardGame.unity
+    guid: a4fad613ce641f64097d806d03061887
+  - enabled: 1
+    path: Assets/Scenes/cautionPresent.unity
+    guid: c4d2b56f3dcefc04daa003a001d93a98
+  - enabled: 1
+    path: Assets/Scenes/mathGameMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/mathGame.unity
+    guid: 51a5df0fc6aff6844bd0cc7e589de44a
+  - enabled: 1
+    path: Assets/Scenes/roomGame.unity
+    guid: d3d4b612d6aa5bc45a5e9fda457f7b84
+  m_configObjects: {}
