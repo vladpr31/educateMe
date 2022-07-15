@@ -18,3 +18,5 @@ How to Play:
 1. git clone this repo.
 2. Start Educate Me.exe
 3. Enjoy.
+
+![](https://github.com/vladpr31/educateMe/blob/master/6mubjf.gif)
